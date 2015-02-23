@@ -8,4 +8,6 @@ we love lola
 
 *she's friggin adorable
 
+I love git & hackerStew
+
 ![a description](http://nicenicejpg.com/200/200)
